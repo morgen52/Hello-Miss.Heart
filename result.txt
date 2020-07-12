@@ -1,0 +1,5 @@
+<class 'SyntaxError'> invalid syntax (<string>, line 1) <traceback object at 0x7f8e03ec4230>
+  File "<console>", line 1
+    for i in range(5)
+                    ^
+SyntaxError: invalid syntax
